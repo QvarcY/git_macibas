@@ -1,3 +1,13 @@
+
 body {
     background-color: brown;
+}
+
+.title {
+    font-size: 40px;
+}
+
+.txt {
+    font-size: 13px;
+
 }
